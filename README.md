@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RamonCz
-- 👀 I’m interested in computer science, machine learning deep learning
+- 👀 I’m interested in computer science, machine learning and deep learning
 - 🌱 I’m currently learning all of path of computer science
 - 📫 How to reach me RamonCz
 
